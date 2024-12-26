@@ -499,7 +499,7 @@ nav ul li a:hover {
 
 .contact-me-grid {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: auto auto auto auto auto;
     padding-top: 50px;
     margin-left: 120px;
 }
